@@ -1,0 +1,641 @@
+2023-04-14T02:26:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T02:27:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T02:31:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T02:32:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T06:17:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-14T06:48:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-14T06:50:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-14T07:01:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T07:02:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T07:02:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T07:44:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T09:47:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-14T10:05:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/functions.php:31
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): hide_product_with_outofstock_variation()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1574): apply_filters()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woocommerce/templates/content-product.php(23): WC_Product->is_visible()
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(80): wc_get_template_part()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/insait...')
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php(22): wc_get_template()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#12 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/functions.php на строке 31
+
+2023-04-14T10:16:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-14T10:16:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-14T10:23:49+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:23:53+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:00+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php on line 174
+
+2023-04-14T10:24:02+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:31+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:38+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:40+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:40+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php on line 174
+
+2023-04-14T10:24:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:44+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:44+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:45+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:45+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php on line 174
+
+2023-04-14T10:24:49+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:51+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:53+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:53+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:24:54+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:25:01+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:25:01+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:25:03+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php:174
+Stack trace:
+#0 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-widget.php(394): Woo_Num_Slider->widget()
+#1 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/widgets.php(835): WP_Widget->display_callback()
+#2 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/sidebar.php(24): dynamic_sidebar()
+#3 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(783): require_once('/var/www/insait...')
+#4 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#5 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(136): locate_template()
+#6 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/helpers.php(689): get_sidebar()
+#7 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): oceanwp_display_sidebar()
+#8 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/woocommerce/wc-content-wrapper-end.php(22): do_action()
+#11 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(785): require('/var/www/insait...')
+#12 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template.php(718): load_template()
+#13 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/general-template.php(204): locate_template()
+#14 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp/inc/woocommerce/woocommerce-config.php(324): get_template_part()
+#15 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(308): OceanWP_WooCommerce_Config::content_wrapper_end()
+#16 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#17 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/themes/oceanwp-child/woocommerce/archive-product.php(106): do_action()
+#19 /var/www/insaitik/data/www/gos.insaitika.ru/wp-includes/template-loader.php(106): include('/var/www/insait...')
+#20 /var/www/insaitik/data/www/gos.insaitika.ru/wp-blog-header.php(19): require_once('/var/www/insait...')
+#21 /var/www/insaitik/data/www/gos.insaitika.ru/index.php(17): require('/var/www/insait...')
+#22 {main}
+  thrown в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/woo-num-slider-master/woo-num-slider.php на строке 174
+
+2023-04-14T10:56:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+

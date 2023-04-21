@@ -1,0 +1,46 @@
+2023-04-13T14:11:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T14:12:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T14:12:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T14:21:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T14:23:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-13T16:07:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php on line 624
+
+2023-04-13T16:09:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T16:19:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T16:56:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T16:58:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T16:59:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-13T17:00:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T17:01:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T17:06:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T17:18:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T17:18:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T17:30:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T18:35:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T18:39:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T18:40:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
+2023-04-13T18:45:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-13T18:48:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 625
+
+2023-04-13T19:11:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/insaitik/data/www/gos.insaitika.ru/wp-content/plugins/yith-woocommerce-ajax-navigation/includes/widgets/class-yith-wcan-navigation-widget.php на строке 624
+
