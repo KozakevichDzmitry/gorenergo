@@ -1,0 +1,44 @@
+{
+  "name": "Gorelektrosnan",
+  "version": "1.0.0",
+  "description": "Gorelektrosnan site",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack --mode=production --config webpack.prod.js",
+    "watch": "webpack --watch --mode=development --config webpack.dev.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/plugin-proposal-optional-chaining": "^7.13.12",
+    "@babel/plugin-proposal-private-methods": "^7.13.0",
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@babel/preset-env": "^7.21.5",
+    "@babel/preset-react": "^7.16.0",
+    "@wordpress/babel-preset-default": "^6.3.2",
+    "babel-loader": "^8.2.3",
+    "basiclightbox": "^5.0.3",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.5.2",
+    "file-loader": "^5.1.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.13.1",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "sass-loader": "^8.0.2",
+    "terser-webpack-plugin": "^3.0.1",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.42.1",
+    "webpack-assets-manifest": "^3.1.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-merge": "^4.2.2"
+  },
+  "dependencies": {
+    "infinite-scroll": "^4.0.1",
+    "promise-polyfill": "^8.3.0",
+    "responsive-auto-height": "0.0.5",
+    "whatwg-fetch": "^3.6.2"
+  }
+}

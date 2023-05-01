@@ -578,9 +578,9 @@ if ( ! class_exists( 'OceanWP_WooCommerce_Config' ) ) {
 		public static function infinite_pagination() {
 			global $wp_query;
 
-			if ( $wp_query->max_num_pages <= 1 ) {
-				return;
-			}
+//			if ( $wp_query->max_num_pages <= 1 ) {
+//				return;
+//			}
 
 			// Last text
 			$last = get_theme_mod( 'ocean_woo_infinite_scroll_last_text' );

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialBold.eot');
+    src: url('ArialBold.eot?#iefix') format('embedded-opentype'),
+        url('ArialBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialRegular.eot');
+    src: url('ArialRegular.eot?#iefix') format('embedded-opentype'),
+        url('ArialRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

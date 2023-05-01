@@ -1,0 +1,123 @@
+@import '../components/filter-checkbox';
+@import '../components/filter-slider';
+
+.widget_filter_products {
+  margin-top: 26px;
+
+  &.sidebar-box{
+    border: none;
+  }
+
+  .filter__header-btn {
+    margin-bottom: 10px;
+    padding: 17px 44px 16px 20px;
+    width: 100%;
+    position: relative;
+    background: transparent;
+    border: #2F5D82 1px solid;
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.23em;
+    color: #151515;
+    text-align: left;
+
+    &.active:after {
+      content: '';
+      transform: translateY(-50%);
+    }
+
+    &:after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      right: 23px;
+      width: 24px;
+      height: 24px;
+      background-image: url("../../images/chevron-down.svg");
+      background-repeat: no-repeat;
+      transform: translateY(-50%) rotate(180deg);
+      transition: all .3s linear;
+    }
+  }
+
+  .filter__header-btn.active + .filters__wrapper {
+    display: block;
+  }
+  .filters__wrapper {
+    display: none;
+  }
+
+
+  .filters__list {
+    margin: 0;
+    padding: 23px 25px;
+    list-style: none;
+    border: 1px solid #DDDDDD;
+
+    .filter{
+      font-size: 1.23em;
+      padding-bottom: 1.25em;
+
+      &:first-child{
+        padding-top:0;
+        border-top: none;
+      }
+      &--line{
+        padding-top: 1.25em;
+        border-top: 1px solid #C0C0C0;
+      }
+
+      .filter__title {
+        margin-bottom: .625em;
+        font-family: 'Arial', sans-serif;
+        font-weight: 700;
+        font-size: 1em;
+        letter-spacing: 1.5px;
+        line-height: 1.55;
+        color: #C0C0C0;
+
+        &-brand {
+          margin-bottom: 1.25em;
+          text-transform: uppercase;
+          color: #2F5D82;
+        }
+      }
+    }
+  }
+
+  .filter__footer{
+    margin-top: 1em;
+
+    &-btn{
+      padding: 12px 16px;
+      margin-right: 8px;
+      font-family: 'Arial', sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 1.125em;
+      border: 1px solid #2F5D82;
+      transition: all .2s linear;
+
+      &--reset{
+        color: #2F5D82;
+        background-color: transparent;
+      }
+
+      &--submit{
+        color: #ffffff;
+        border-color: transparent;
+        background-color: #2F5D82;
+
+      }
+      &:last-child{
+        margin-right: 0;
+      }
+
+      &:hover{
+        box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+      }
+
+    }
+  }
+}
